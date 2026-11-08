@@ -1,0 +1,2 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+SQLAlchemy>=2.0.36
