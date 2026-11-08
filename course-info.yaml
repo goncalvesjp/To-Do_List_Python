@@ -1,0 +1,19 @@
+type: hyperskill
+title: To-Do List (Python)
+language: English
+summary: <p>A to-do list can improve your work and personal life. It relieves stress;
+  you can be more efficient. Save time for the best things! Let's make it happen.</p>
+programming_language: Python
+programming_language_version: 3.10
+environment: unittest
+content:
+  - To-Do List (Python)
+additional_files:
+  - name: .idea/inspectionProfiles/Project_Default.xml
+    visible: true
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+    visible: true
+  - name: requirements.txt
+    visible: true
+mode: Study
+yaml_version: 5
